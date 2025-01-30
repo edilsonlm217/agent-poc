@@ -1,0 +1,6 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "meu_agente": "./src/agent.py:compiled_graph"
+  }
+}
